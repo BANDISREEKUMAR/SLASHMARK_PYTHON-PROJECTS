@@ -1,0 +1,1 @@
+This is the basic project-3, below is the output screenshot in each cases.
